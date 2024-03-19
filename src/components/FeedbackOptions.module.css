@@ -1,0 +1,13 @@
+.options {
+    display: flex;
+    column-gap: 30px;
+    justify-content: center;
+}
+
+.options__button {
+    padding: 9px 17px;
+    color: black;
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 14px;
+}
